@@ -1,4 +1,4 @@
-<h1>CRUD de Usuários, anotações, validações e relacionamentos entre tabelas com Laravel 9</h1>
+<h1>CRUD de Usuários, validações e relacionamentos entre tabelas com Laravel 9</h1>
 <img src="https://laravelnews.imgix.net/images/laravel9.png?ixlib=php-3.3.1" width="600px" />
 
 ### O projeto:
