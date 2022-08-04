@@ -1,4 +1,5 @@
-<h1>Curso de Laravel 9</h1>
+<h1>CRUD de Usuários, anotações, validações e relacionamentos entre tabelas com Laravel 9</h1>
+<img src="https://laravelnews.imgix.net/images/laravel9.png?ixlib=php-3.3.1" width="600px" />
 
 ### O projeto:
 Trata-se de um CRUD de Usuários com anotações sobre estes usuários (ou poderia ser pacientes ou clientes, etc) aplicando versionamento git e vários recursos do laravel 9.
