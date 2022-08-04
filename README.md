@@ -21,4 +21,4 @@ Trabalhar com templates, formulários, usar o Tailwind CSS, _partials, component
 
 ### Screenshots
 #### Autenticação e Registro de Usuários
-<img src="[https://github.com/paulocaetanomt88/curso-laravel-9/screenshots/autenticacao-e-registro-de-usuarios.fw.png](https://github.com/paulocaetanomt88/curso-laravel-9/blob/main/screenshots/autenticacao-e-registro-de-usuarios.fw.png)" width="800px" />
+<img src="https://github.com/paulocaetanomt88/curso-laravel-9/screenshots/autenticacao-e-registro-de-usuarios.fw.png" width="800px" />
