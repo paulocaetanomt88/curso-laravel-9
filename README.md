@@ -25,7 +25,7 @@ Trabalhar com templates, formulários, usar o Tailwind CSS, _partials, component
 <br>
 
 #### Listagem de Usuários
-<img src="/screenshots/listagem-de-usuarios.fw.png"/>
+<img src="/screenshots/listagem-de-usuarios2.fw.png"/>
 <br>
 
 #### Cadastrando Novo Usuário
@@ -33,11 +33,11 @@ Trabalhar com templates, formulários, usar o Tailwind CSS, _partials, component
 <br>
 
 #### Editar dados do usuário já cadastrado
-<img src="/screenshots/editar-anotação-usuario.fw.png"/>
+<img src="/screenshots/editar-anotação-usuario2.fw.png"/>
 <br>
 
 #### Visualizar dados de um usuário específico
-<img src="/screenshots/visualizar-dados-usuario.fw.png"/>
+<img src="/screenshots/visualizar-dados-usuario2.fw.png"/>
 <br>
 
 #### Anotações de um usuário
