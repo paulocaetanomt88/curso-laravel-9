@@ -22,3 +22,28 @@ Trabalhar com templates, formulários, usar o Tailwind CSS, _partials, component
 ### Screenshots
 #### Autenticação e Registro de Usuários
 <img src="/screenshots/autenticacao-e-registro-de-usuarios.fw.png"/>
+<br>
+
+#### Listagem de Usuários
+<img src="/screenshots/listagem-de-usuarios.fw.png"/>
+<br>
+
+#### Cadastrando Novo Usuário
+<img src="/screenshots/cadastro-novo-usuario.fw.png"/>
+<br>
+
+#### Editar dados do usuário já cadastrado
+<img src="/screenshots/editar-anotação-usuario.fw.png"/>
+<br>
+
+#### Visualizar dados de um usuário específico
+<img src="/screenshots/visualizar-dados-usuario.fw.png"/>
+<br>
+
+#### Anotações de um usuário
+<img src="/screenshots/anotações-usuario.fw.png"/>
+<br>
+
+#### Editar anotação de um usuário
+<img src="/screenshots/editar-anotação-usuario.fw.png"/>
+<br>
