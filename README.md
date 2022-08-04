@@ -18,3 +18,7 @@ Trabalhar com templates, formulários, usar o Tailwind CSS, _partials, component
 #### SGBD: MySQL
 #### Framework: Laravel 9
 #### Servidor web: Apache/Laragon
+
+### Screenshots
+#### Autenticação e Registro de Usuários
+<img src="./screenshots/autenticacao-e-registro-de-usuarios.fw.png" width="800px" />
